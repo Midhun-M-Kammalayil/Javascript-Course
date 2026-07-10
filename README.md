@@ -1,2 +1,1 @@
-# first-project
-my first project
+# starting date 10-07-2026
